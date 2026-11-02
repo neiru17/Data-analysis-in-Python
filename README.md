@@ -1,2 +1,17 @@
-# Data-analysis-in-Python
-this repository is intended for the centralized storage and tracking of laboratory assignments focused on big data analysis and processing using the Python programming language.
+# Анализ данных на python
+*Репозиторий с проектами и лабораторными работами по анализу данных на языке Python.*
+
+## 📂 Структура проекта
+
+Ниже представлено описание структуры папок и файлов в репозитории:
+
+```text
+Data-analysis-in-Python
+│
+├── LB1                                      # Лабораторная работа №1
+│   ├── conditions                           # Условия заданий / доп. материалы
+│   ├── Econom_Cities_data.csv               # Исходный датасет (данные по городам)
+│   └── lb1_python_economics_cities.ipynb    # Jupyter Notebook с решением
+│
+├── .venv                                    # Виртуальное окружение (не включено в git)
+└── README.md                                # Описание проекта
